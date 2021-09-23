@@ -9,6 +9,14 @@ Major: Math | Minor: Computer Science | Minor: Bioinformatics
 [Email](mailto:liyimei@sas.upenn.edu) / [Website](https://yimei-li.github.io/yimeili/) / [LinkedIn](https://www.linkedin.com/in/yimei-li-510b52a4/) / [GitHub](https://github.com/yimei-li) / [Twitter](https://twitter.com/yl_yimei) / [Personal Blog](https://yimeiliblog.wordpress.com/)
 <br><br>
 
+## SKILLS
+
+**Programming:** Python, R, WinBUGS, INLA, Matlab, LaTeX, Bash script (Awk, Perl), C, C++ , Java, SAS, Stata, Docker
+**Data Mining:** R ggplot2, R data.table, Python Pandas, Python Numpy, SQL/PSQL
+**Research Focus:** Deep Neural Network, Bayesian Analysis, Systems and Computational biology
+**Machine Learning:**  TensorFlow, Keras 
+**Languages:** English, Chinese, German (Goethe-Zertifikat A1)
+
 ## RESEARCH EXPERIENCE
 
 **Research Assistant | Genomic Data Analyst** @ [Kim Lab, University of Pennsylvania](https://kim.bio.upenn.edu/) _(Aug 2019 - Present)_ <br>

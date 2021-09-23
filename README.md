@@ -11,11 +11,11 @@ Major: Math | Minor: Computer Science | Minor: Bioinformatics
 
 ## SKILLS
 
-**Programming:** Python, R, WinBUGS, INLA, Matlab, LaTeX, Bash script (Awk, Perl), C, C++ , Java, SAS, Stata, Docker
-**Data Mining:** R ggplot2, R data.table, Python Pandas, Python Numpy, SQL/PSQL
-**Research Focus:** Deep Neural Network, Bayesian Analysis, Systems and Computational biology
-**Machine Learning:**  TensorFlow, Keras 
-**Languages:** English, Chinese, German (Goethe-Zertifikat A1)
+- **Programming:** Python, R, WinBUGS, INLA, Matlab, LaTeX, Bash script (Awk, Perl), C, C++ , Java, SAS, Stata, Docker
+- **Data Mining:** R ggplot2, R data.table, Python Pandas, Python Numpy, SQL/PSQL
+- **Research Focus:** Deep Neural Network, Bayesian Analysis, Systems and Computational biology
+- **Machine Learning:**  TensorFlow, Keras 
+- **Languages:** English, Chinese, German (Goethe-Zertifikat A1)
 
 ## RESEARCH EXPERIENCE
 
